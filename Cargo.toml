@@ -1,0 +1,11 @@
+[package]
+name = "nonstd"
+version = "0.1.0"
+authors = ["juniorz@gmail.com"]
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+]
+
+[dependencies]
+
